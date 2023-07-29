@@ -85,7 +85,7 @@ function App() {
                 }
               />
               <h2> “Our service and customer satisfaction levels are at an all-time high!”</h2>
-              <h3>Alba CEO</h3>
+              <h3>Alba - CEO</h3>
             </div>
           </Content></Col>
       </Row>
